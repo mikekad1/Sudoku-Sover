@@ -1,3 +1,1 @@
-# Get Started!
-
-Add files and start typing 🎉
+# [Sudoku Solver](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/sudoku-solver)
